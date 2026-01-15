@@ -4,13 +4,13 @@ Automatically sync highlights from your Pocketbook e-reader to your note-taking 
 
 ## Features
 
-- ✨ **Extract highlights** from Pocketbook e-readers (Touch Lux 3 and compatible models)
-- 📝 **Create formatted Markdown files** - one file per book with all highlights
-- 🔗 **Deep links to Calibre** - click to open books at exact highlight locations
-- 📚 **Multi-app support** - works with Obsidian, Logseq, Notion, or any Markdown-based system
-- ⚙️ **Easy setup wizard** - interactive configuration on first run
-- 🔄 **Remembers your settings** - paths saved for future syncs
-- 🍎 **macOS app included** - double-click to sync
+- **Extract highlights** from Pocketbook e-readers (Touch Lux 3 and compatible models)
+- **Create formatted Markdown files** - one file per book with all highlights
+- **Deep links to Calibre** - click to open books at exact highlight locations
+- **Multi-app support** - works with Obsidian, Logseq, Notion, or any Markdown-based system
+- **Easy setup wizard** - interactive configuration on first run
+- **Remembers your settings** - paths saved for future syncs
+- **macOS app included** - double-click to sync
 
 ## What You Get
 
@@ -226,4 +226,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with ❤️ for book lovers and note-takers
+**Note:** This tool was created with [Claude Code](https://claude.ai/code), an AI-powered development assistant.

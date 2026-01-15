@@ -15,8 +15,8 @@ Please help me with the following:
 
 2. Run the setup wizard (python3 setup.py) and help me configure:
    - My Pocketbook mount path (auto-detect if possible)
-   - My note-taking app vault location (default: Obsidian at ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Vault 13)
-   - My Calibre library location (default: ~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Calibre Library)
+   - My note-taking app vault location (Obsidian, Logseq, etc.)
+   - My Calibre library location (optional, for deep linking)
    - Highlights folder name (default: "Book Highlights")
 
 3. After setup is complete:
@@ -39,14 +39,7 @@ Please guide me through each step and explain what's happening along the way.
 If you're comfortable with the command line, use this shorter prompt:
 
 ```
-Clone https://github.com/heissjl/pocketbook-sync to ~/pocketbook-sync and run the setup wizard. Use these defaults:
-- Pocketbook: /Volumes/PB626 (auto-detect)
-- Notes app: Obsidian
-- Vault: ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Vault 13
-- Calibre: ~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Calibre Library
-- Folder: Book Highlights
-
-Then show me the config and help me run the first sync.
+Clone https://github.com/heissjl/pocketbook-sync to ~/pocketbook-sync and run the setup wizard. Auto-detect my paths where possible, then show me the config and help me run the first sync.
 ```
 
 ---
